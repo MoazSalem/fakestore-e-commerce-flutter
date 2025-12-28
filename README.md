@@ -22,7 +22,7 @@ The app uses data from the [Fake Store API](https://fakestoreapi.com/) to simula
 * ✨ **Skeletonizer (Shimmer)** — skeleton loading animations for a smoother UX.
 * 📱 **Responsive UI** — works across multiple screen sizes.
 * 💳 **PayMob for Payment** Implementation with card and wallet payments.
-* 🚀 **Deployed [Web Preview](https://moazsalem.github.io/FakeStore_E-Commerce/) & Precompiled APKs** in [Releases](https://github.com/MoazSalem/FakeStore_E-Commerce/releases) for quick access
+* 🚀 **Deployed [Web Preview](https://moazsalem.github.io/fakestore-e-commerce-flutter/) & Precompiled APKs** in [Releases](https://github.com/MoazSalem/fakestore-e-commerce-flutter/releases) for quick access
 
 ---
 
@@ -78,9 +78,9 @@ lib/
 
 ## 📦 Previews
 
-Try the [Web Preview Version with Device Preview](https://moazsalem.github.io/FakeStore_E-Commerce/) 
+Try the [Web Preview Version with Device Preview](https://moazsalem.github.io/fakestore-e-commerce-flutter/) 
 
-Or you can download [The Latest APK builds from Releases](https://github.com/MoazSalem/FakeStore_E-Commerce/releases) section.
+Or you can download [The Latest APK builds from Releases](https://github.com/MoazSalem/fakestore-e-commerce-flutter/releases) section.
 
 Also there is an unsigned ipa included in the releases for ios testing.
 
