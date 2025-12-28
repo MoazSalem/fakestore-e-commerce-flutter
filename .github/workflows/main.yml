@@ -120,7 +120,7 @@ jobs:
       - run: |
           echo "$PAYMOB_KEYS" | base64 -d >keys.json
           flutter pub get
-          flutter build web --release --dart-define-from-file=keys.json --base-href /FakeStore_E-Commerce/
+          flutter build web --release --dart-define-from-file=keys.json --base-href /fakestore-e-commerce-flutter/
         env:
           PAYMOB_KEYS: ${{ secrets.PAYMOB_KEYS }}
 
